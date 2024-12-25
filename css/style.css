@@ -1,0 +1,32 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cartao {
+    background-color: red;
+    width: 500px;
+    height: 700px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.CartaoNatal {
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+
+img {
+    width: 300px;
+    height: 350px;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+p {
+    font-size: 32px;
+    text-decoration: normal;
+    font-style: normal;
+}
